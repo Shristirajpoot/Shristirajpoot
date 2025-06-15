@@ -439,12 +439,11 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shristirajpoot/Shristirajpoot/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Shristirajpoot/mdazfar2/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </p>
-
   <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
