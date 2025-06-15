@@ -1,1 +1,3 @@
 theme: dark
+palette:
+  background: "#000000"
