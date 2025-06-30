@@ -3,6 +3,7 @@
 <p align="center">
   <img src="Screenshot%202025-06-15%20170303.png" alt="Shristi Banner" width="100%" />
 </p>
+<!-- Triggering Octoprofiler badge -->
 
 <!--- Visitor & Social Badges -->
 <div align="center">
