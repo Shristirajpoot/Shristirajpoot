@@ -404,11 +404,7 @@
 </div>
 
 <br>
-<p align="center">
-  <a href="https://github.com/Shristirajpoot" target="_blank">
-    <img src="https://img.shields.io/github/followers/Shristirajpoot.svg?style=social&label=Follow" alt="GitHub Followers" />
-  </a>
-</p>
+
 
         
 <!-- ---------------------------------------STATS------------------------------------------
