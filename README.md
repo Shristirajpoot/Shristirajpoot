@@ -382,9 +382,10 @@
 <a href="https://github.com/Shristirajpoot/bakery">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shristirajpoot&repo=bakery&theme=cobalt" />
 </a>
-<a href="https://github.com/Shristirajpoot/Gestura">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shristirajpoot&repo=Gestura&theme=cobalt" />
+<a href="https://github.com/Shristirajpoot/Gestura-Retail-Accessibility-AI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shristirajpoot&repo=Gestura-Retail-Accessibility-AI&theme=cobalt" />
 </a>
+
 <a href="https://github.com/Shristirajpoot/WebClonePro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shristirajpoot&repo=WebClonePro&theme=cobalt" />
 </a>
