@@ -1,4 +1,4 @@
-<!--- Motivational Quote First -->
+<!--- Motivational Quote First ------>
 <p align="center"><i>🌟 Work with Optimism, Hope for the Best!</i></p>
 <p align="center">
   <img src="Screenshot%202025-06-15%20170303.png" alt="Shristi Banner" width="100%" />
