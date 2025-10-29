@@ -321,7 +321,7 @@
 <a href="https://leetcode.com/u/Debug_coder/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<a href="https://codeforces.com/profile/Greedy_Coder1">
+<a href="https://codeforces.com/profile/GreedyCoder234">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 <a href="https://www.geeksforgeeks.org/user/shristirawkeq/">
