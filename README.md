@@ -105,6 +105,12 @@
 | Program / Role | Organization | Duration | Mode | Key Skills / Highlights |
 |----------------|--------------|----------|------|--------------------------|
 | 🌱 **Trainee - Pragati: Path to Future (Cohort 5)** | Infosys Springboard | May 2025 – Present | Hybrid | Java · DBMS · Python |
+| **HPAIR Delegate** | Harvard University | 2025 | Selected delegate for HPAIR Asia Conference |
+| **Flipkart GRID 5.0 Finalist** | Flipkart | 2024 | Among top 1% in national tech challenge |
+| **Springboard Intern** | Infosys Springboard | Sep 2025 – Present | Hybrid | Java · DBMS · Python |
+| **Mentee** | Codess.Cafe | Oct 2024 – Present | Remote | AI mentorship & project-based learning |
+| **IBM SkillsBuild Intern (Web Dev)** | AICTE | Aug 2025 – Oct 2025 | Remote | Web Development · Responsive UI · Backend Integration |
+| **SDE Intern** | Bluestock™ 🔺 | Jul 2025 – Aug 2025 | Remote | Django · REST APIs · DB Optimization |
 | 🤝 **Contributor** | Social Summer of Code (SSOC, Season 4) | May 2025 – Present | Remote | Open-source Contributions |
 | 🧠 **Participant - Gen AI Exchange** | Google | Apr 2025 – Present | Remote | Vertex AI · Multimodal RAG · Gemini · Imagen · Streamlit |
 | 🌐 **Mentee - Upskilling Launchpad** | Google | Apr 2025 – May 2025 | Remote | Google Cloud & AI Mentoring |
@@ -378,15 +384,24 @@
 
 <div align="center">
 
-<h1>🚀 Top Repositories</h2>
+<h1>🚀 Top Repositories</h1>
 
+<!-- DRAMS: Disaster Relief and Rescue System -->
+<a href="https://github.com/Shristirajpoot/Disaster-Relief-and-Rescue-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shristirajpoot&repo=Disaster-Relief-and-Rescue-System&theme=cobalt" />
+</a>
+
+<!-- Bakery Management System -->
 <a href="https://github.com/Shristirajpoot/bakery">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shristirajpoot&repo=bakery&theme=cobalt" />
 </a>
+
+<!-- Gestura: Retail Accessibility AI -->
 <a href="https://github.com/Shristirajpoot/Gestura-Retail-Accessibility-AI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shristirajpoot&repo=Gestura-Retail-Accessibility-AI&theme=cobalt" />
 </a>
 
+<!-- WebClonePro -->
 <a href="https://github.com/Shristirajpoot/WebClonePro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shristirajpoot&repo=WebClonePro&theme=cobalt" />
 </a>
