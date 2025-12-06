@@ -392,10 +392,11 @@
 
 | Repository | Repository |
 |------------|------------|
-| [<h3>Disaster Relief & Rescue</h3>](https://github.com/Shristirajpoot/Disaster-Relief-and-Rescue-System) <br> Python · AI/ML · Full Stack <br> ![Stars](https://img.shields.io/badge/Stars-⭐-FFD700?style=for-the-badge&logo=github) ![Forks](https://img.shields.io/badge/Forks-🖇️-FFD700?style=for-the-badge&logo=github) | [<h3>Bakery Management System</h3>](https://github.com/Shristirajpoot/bakery) <br> JavaScript · Web Dev · Frontend <br> ![Stars](https://img.shields.io/badge/Stars-⭐-FFA500?style=for-the-badge&logo=github) ![Forks](https://img.shields.io/badge/Forks-🖇️-FFA500?style=for-the-badge&logo=github) |
-| [<h3>Gestura AI</h3>](https://github.com/Shristirajpoot/Gestura-Retail-Accessibility-AI) <br> Python · AI · Accessibility <br> ![Stars](https://img.shields.io/badge/Stars-⭐-32CD32?style=for-the-badge&logo=github) ![Forks](https://img.shields.io/badge/Forks-🖇️-32CD32?style=for-the-badge&logo=github) | [<h3>WebClonePro</h3>](https://github.com/Shristirajpoot/WebClonePro) <br> JavaScript · Web3 · Cloning Tool <br> ![Stars](https://img.shields.io/badge/Stars-⭐-9370DB?style=for-the-badge&logo=github) ![Forks](https://img.shields.io/badge/Forks-🖇️-9370DB?style=for-the-badge&logo=github) |
+| <a href="https://github.com/Shristirajpoot/Disaster-Relief-and-Rescue-System"><h3>Disaster Relief & Rescue</h3></a> <br> Python · AI/ML · Full Stack <br> <img src="https://img.shields.io/badge/Stars-⭐-FFD700?style=for-the-badge&logo=github"> <img src="https://img.shields.io/badge/Forks-🖇️-FFD700?style=for-the-badge&logo=github"> | <a href="https://github.com/Shristirajpoot/bakery"><h3>Bakery Management System</h3></a> <br> JavaScript · Web Dev · Frontend <br> <img src="https://img.shields.io/badge/Stars-⭐-FFA500?style=for-the-badge&logo=github"> <img src="https://img.shields.io/badge/Forks-🖇️-FFA500?style=for-the-badge&logo=github"> |
+| <a href="https://github.com/Shristirajpoot/Gestura-Retail-Accessibility-AI"><h3>Gestura AI</h3></a> <br> Python · AI · Accessibility <br> <img src="https://img.shields.io/badge/Stars-⭐-32CD32?style=for-the-badge&logo=github"> <img src="https://img.shields.io/badge/Forks-🖇️-32CD32?style=for-the-badge&logo=github"> | <a href="https://github.com/Shristirajpoot/WebClonePro"><h3>WebClonePro</h3></a> <br> JavaScript · Web3 · Cloning Tool <br> <img src="https://img.shields.io/badge/Stars-⭐-9370DB?style=for-the-badge&logo=github"> <img src="https://img.shields.io/badge/Forks-🖇️-9370DB?style=for-the-badge&logo=github"> |
 
 <p align="center">
+
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </p>
 
