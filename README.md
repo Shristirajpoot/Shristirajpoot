@@ -386,25 +386,19 @@
 
 <h1>🚀 Top Repositories</h1>
 
-<!-- DRAMS: Disaster Relief and Rescue System -->
-<a href="https://github.com/Shristirajpoot/Disaster-Relief-and-Rescue-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shristirajpoot&repo=Disaster-Relief-and-Rescue-System&theme=cobalt" />
-</a>
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+</p>
 
-<!-- Bakery Management System -->
-<a href="https://github.com/Shristirajpoot/bakery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shristirajpoot&repo=bakery&theme=cobalt" />
-</a>
+| Repository | Repository |
+|------------|------------|
+| [<h3>Disaster Relief & Rescue</h3>](https://github.com/Shristirajpoot/Disaster-Relief-and-Rescue-System) <br> Python · AI/ML · Full Stack <br> ![Stars](https://img.shields.io/badge/Stars-⭐-FFD700?style=for-the-badge&logo=github) ![Forks](https://img.shields.io/badge/Forks-🖇️-FFD700?style=for-the-badge&logo=github) | [<h3>Bakery Management System</h3>](https://github.com/Shristirajpoot/bakery) <br> JavaScript · Web Dev · Frontend <br> ![Stars](https://img.shields.io/badge/Stars-⭐-FFA500?style=for-the-badge&logo=github) ![Forks](https://img.shields.io/badge/Forks-🖇️-FFA500?style=for-the-badge&logo=github) |
+| [<h3>Gestura AI</h3>](https://github.com/Shristirajpoot/Gestura-Retail-Accessibility-AI) <br> Python · AI · Accessibility <br> ![Stars](https://img.shields.io/badge/Stars-⭐-32CD32?style=for-the-badge&logo=github) ![Forks](https://img.shields.io/badge/Forks-🖇️-32CD32?style=for-the-badge&logo=github) | [<h3>WebClonePro</h3>](https://github.com/Shristirajpoot/WebClonePro) <br> JavaScript · Web3 · Cloning Tool <br> ![Stars](https://img.shields.io/badge/Stars-⭐-9370DB?style=for-the-badge&logo=github) ![Forks](https://img.shields.io/badge/Forks-🖇️-9370DB?style=for-the-badge&logo=github) |
 
-<!-- Gestura: Retail Accessibility AI -->
-<a href="https://github.com/Shristirajpoot/Gestura-Retail-Accessibility-AI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shristirajpoot&repo=Gestura-Retail-Accessibility-AI&theme=cobalt" />
-</a>
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+</p>
 
-<!-- WebClonePro -->
-<a href="https://github.com/Shristirajpoot/WebClonePro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shristirajpoot&repo=WebClonePro&theme=cobalt" />
-</a>
 
 </div>
 
@@ -412,13 +406,8 @@
 <!-- ---------------------------------------STATS------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 <!-- 📈 GitHub Stats Section -->
-<h1 align="center">📈 GitHub Stats</h2>
+<h1 align="center">📈 GitHub Stats</h1>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shristirajpoot&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="Top Languages" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Shristirajpoot&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219" alt="GitHub Stats" height="170" />
-</div>
 
 <br>
 
@@ -431,7 +420,7 @@
 
 <br>      
 <details>
-  <summary>Expand Summary View</summary>
+ 
   <br />
   <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shristirajpoot&theme=github_dark" />
