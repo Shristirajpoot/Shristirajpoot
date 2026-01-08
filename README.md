@@ -189,7 +189,32 @@
 <!------------------   -------------------------------------------------------------------- -->
 <!---------------- Recommend Blog Post ----------------------------------------------------- -->
 <!---------------------  ------------------------------------------------------------------- -->
+<div align="center">
 
+<h1><b>🎧 My Spotify Updates 🎧</b></h1>
+
+<table>
+  <tr>
+    <td>
+      <!-- Now Playing Widget -->
+      <a href="https://open.spotify.com/user/31vkuy4r674wgg6amt7jbhj2lti4">
+        <img src="https://novatorem-eta-seven.vercel.app/api/spotify" alt="Now Playing on Spotify" />
+      </a>
+    </td>
+
+   <td>
+      <!-- Playlist Section -->
+      <div align="center">
+        <h3><b>🎵 My Spotify Playlist 🎵</b></h3>
+        <a href="https://open.spotify.com/user/31vkuy4r674wgg6amt7jbhj2lti4">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="150px" alt="Spotify Playlist" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 
@@ -238,8 +263,8 @@
 | Overview | Follow up Issues & PRs |
 |:--------:|:-------------------------:|
 | ![Lines of Code & Base Introduction](https://raw.githubusercontent.com/Shristirajpoot/metrics/master/assets/metrics.plugin.code.lines.svg) | ![Follow up Issues & PRs](https://raw.githubusercontent.com/Shristirajpoot/metrics/master/assets/metrics.plugin.followup.svg) |
-| Notable Contributions |
-| ![Notable Contributions](https://raw.githubusercontent.com/Shristirajpoot/metrics/master/assets/metrics.plugin.notable.contributions.svg) |
+| Leetcode Stats | Notable Contributions |
+| ![Leetcode Stats](https://raw.githubusercontent.com/Shristirajpoot/metrics/master/assets/metrics.plugin.leetcode.svg) | ![Notable Contributions](https://raw.githubusercontent.com/Shristirajpoot/metrics/master/assets/metrics.plugin.notable.contributions.svg) |
 | Achievements | Language Activity |
 | ![Achievements](https://raw.githubusercontent.com/Shristirajpoot/metrics/master/assets/metrics.plugin.achievements.svg) | ![Language Activity](https://raw.githubusercontent.com/Shristirajpoot/metrics/master/assets/metrics.plugin.languages.activity.svg) |
 | Discussions | Reactions |
@@ -256,9 +281,23 @@
 
 
 
+<div align="center">
+  <a href="https://drive.google.com/file/d/1S9_AiGW4DwRRk5z2A1XPdLReAu2-Kcu4/view?usp=sharing" target="_blank">
+    <img height="460px" src="https://raw.githubusercontent.com/Shristirajpoot/Shristirajpoot/main/r%20(1).png" alt="Shristi Rajpoot Resume Preview" />
+  </a>
+  <br><br>
+  <a href="https://drive.google.com/file/d/1S9_AiGW4DwRRk5z2A1XPdLReAu2-Kcu4/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄 View Full Resume-green?style=for-the-badge" alt="View Resume Button">
+  </a>
 
+  <!-- Optional GIF (Uncomment if needed) -->
+  <!--
+  <a href="https://drive.google.com/file/d/1S9_AiGW4DwRRk5z2A1XPdLReAu2-Kcu4/view?usp=sharing">
+    <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="460px" height="460px" alt="Resume GIF">
+  </a>
+  -->
 
- 
+</div>
 
 
 
@@ -285,7 +324,9 @@
 <br />
 
 <!-- Row 2 -->
-
+<a href="https://leetcode.com/u/Debug_coder/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 <a href="https://codeforces.com/profile/GreedyCoder234">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
@@ -302,7 +343,9 @@
 <a href="https://x.com/ShristiRajpoot">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-
+<a href="https://3d-portfolio-sigma-ivory.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 <br />
 
@@ -310,7 +353,7 @@
 <a href="https://www.facebook.com/shristi.rajpoot.967">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="mailto:shristirajpoot369@gmail.com">
+<a href="mailto:shristirawkeq@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://discordapp.com/users/shristi_rajpoot_74367">
