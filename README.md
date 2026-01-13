@@ -112,7 +112,7 @@
 | 🤝 **Contributor**                                  | Social Summer of Code (SSOC, Season 4) | **May 2025 – July 2025**  | Remote | Open-source Contributions                                |
 | 🧠 **Participant – Gen AI Exchange**                | Google                                 | **Apr 2025 – August 2025**  | Remote | Vertex AI · Multimodal RAG · Gemini · Imagen · Streamlit |
 | 💻 **Mentee**                                       | Code; Without Barriers                 | **Apr 2025 – Present**  | Remote | Inclusive Innovation in Tech                             |
-| **Springboard Intern**                              | Infosys Springboard                    | **Sep 2025 – Nov 2025**  | Hybrid | Java · DBMS · Python                                     |
+| **Intern**                              | Infosys Springboard                    | **Sep 2025 – Nov 2025**  | Hybrid | Java · DBMS · Python                                     |
 | **IBM SkillsBuild Intern (Web Dev)**                | AICTE                                  | **Aug 2025 – Oct 2025** | Remote | Web Development · Responsive UI · Backend Integration    |
 | **SDE Intern**                                      | Bluestock™ 🔺                          | **Jul 2025 – Aug 2025** | Remote | Django · REST APIs · DB Optimization                     |
 | 🌐 **Mentee – Upskilling Launchpad**                | Google                                 | **Apr 2025 – May 2025** | Remote | Google Cloud & AI Mentoring                              |
