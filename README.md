@@ -16,12 +16,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/>
   </a>
 <a href="https://mail.google.com/mail/?view=cm&to=shristirajpoot369@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" />
 </a>
 
-  <a href="https://discordapp.com/users/shristi_rajpoot_74367">
-    <img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" />
-  </a>
+<a href="https://discordapp.com/users/shristi_rajpoot_74367">
+  <img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" />
+</a>
+
   <a href="https://x.com/ShristiRajpoot">
     <img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" />
   </a>
