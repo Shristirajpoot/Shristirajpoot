@@ -102,24 +102,28 @@
 
 ### 💼 **Professional & Community Programs**
 
-| Program / Role | Organization | Duration | Mode | Key Skills / Highlights |
-|----------------|--------------|----------|------|--------------------------|
-| 🌱 **Trainee - Pragati: Path to Future (Cohort 5)** | Infosys Springboard | May 2025 – Present | Hybrid | Java · DBMS · Python |
-| **HPAIR Delegate** | Harvard University | 2025 | Selected delegate for HPAIR Asia Conference |
-| **Flipkart GRID 5.0 Finalist** | Flipkart | 2024 | Among top 1% in national tech challenge |
-| **Springboard Intern** | Infosys Springboard | Sep 2025 – Present | Hybrid | Java · DBMS · Python |
-| **Mentee** | Codess.Cafe | Oct 2024 – Present | Remote | AI mentorship & project-based learning |
-| **IBM SkillsBuild Intern (Web Dev)** | AICTE | Aug 2025 – Oct 2025 | Remote | Web Development · Responsive UI · Backend Integration |
-| **SDE Intern** | Bluestock™ 🔺 | Jul 2025 – Aug 2025 | Remote | Django · REST APIs · DB Optimization |
-| 🤝 **Contributor** | Social Summer of Code (SSOC, Season 4) | May 2025 – Present | Remote | Open-source Contributions |
-| 🧠 **Participant - Gen AI Exchange** | Google | Apr 2025 – Present | Remote | Vertex AI · Multimodal RAG · Gemini · Imagen · Streamlit |
-| 🌐 **Mentee - Upskilling Launchpad** | Google | Apr 2025 – May 2025 | Remote | Google Cloud & AI Mentoring |
-| 💻 **Mentee** | Code; Without Barriers | Apr 2025 – Present | Remote | Inclusive Innovation in Tech |
-| 👩‍💻 **Mentee** | Codess.Cafe | Oct 2024 – Present | Remote | Technical Mentorship & Challenges |
-| 🔗 **Web3 Scholar - Cohort 13** | SheFi | Feb 2025 – Apr 2025 | Remote | Blockchain · DeFi · Web3 · AI |
-| 🌍 **Scholar** | Harvard WECode 2025 | Feb 2025 | Remote | Global Women in Tech Conference |
-| 👩‍🔧 **Contributor** | GirlScript Summer of Code (GSSoC) | Oct 2024 – Nov 2024 | Remote | 5+ OSS Projects · 10+ Issues Solved |
-| 👩‍🏫 **Mentor** | JGEC Winter of Code | Jan 2025 | Remote | Open Source Mentorship |
+
+
+| Program / Role                                      | Organization                           | Duration                | Mode   | Key Skills / Highlights                                  |
+| --------------------------------------------------- | -------------------------------------- | ----------------------- | ------ | -------------------------------------------------------- |
+| 🌱 **Trainee – Pragati: Path to Future (Cohort 5)** | Infosys Springboard                    | **May 2025 – July 2025**  | Hybrid | Java · DBMS · Python                                     |
+| 🤝 **Contributor**                                  | Social Summer of Code (SSOC, Season 4) | **May 2025 – July 2025**  | Remote | Open-source Contributions                                |
+| 🧠 **Participant – Gen AI Exchange**                | Google                                 | **Apr 2025 – August 2025**  | Remote | Vertex AI · Multimodal RAG · Gemini · Imagen · Streamlit |
+| 💻 **Mentee**                                       | Code; Without Barriers                 | **Apr 2025 – Present**  | Remote | Inclusive Innovation in Tech                             |
+| **Springboard Intern**                              | Infosys Springboard                    | **Sep 2025 – Nov 2025**  | Hybrid | Java · DBMS · Python                                     |
+| **IBM SkillsBuild Intern (Web Dev)**                | AICTE                                  | **Aug 2025 – Oct 2025** | Remote | Web Development · Responsive UI · Backend Integration    |
+| **SDE Intern**                                      | Bluestock™ 🔺                          | **Jul 2025 – Aug 2025** | Remote | Django · REST APIs · DB Optimization                     |
+| 🌐 **Mentee – Upskilling Launchpad**                | Google                                 | **Apr 2025 – May 2025** | Remote | Google Cloud & AI Mentoring                              |
+| 🔗 **Web3 Scholar – Cohort 13**                     | SheFi                                  | **Feb 2025 – Apr 2025** | Remote | Blockchain · DeFi · Web3 · AI                            |
+| 🌍 **Scholar**                                      | Harvard WECode 2025                    | **Feb 2025**            | Remote | Global Women in Tech Conference                          |
+| 👩‍🏫 **Mentor**                                    | JGEC Winter of Code                    | **Jan 2025**            | Remote | Open Source Mentorship                                   |
+| **HPAIR Delegate**                                  | Harvard University                     | **2025**                | —      | Selected delegate for HPAIR Asia Conference              |
+| **Flipkart GRID 7.0 Finalist**                      | Flipkart                               | **2025**                | —      | Among top 1% in national tech challenge                  |
+| 👩‍🔧 **Contributor**                               | GirlScript Summer of Code (GSSoC)      | **Oct 2024 – Nov 2024** | Remote | 5+ OSS Projects · 10+ Issues Solved                      |
+| 👩‍💻 **Mentee**                                    | Codess.Cafe                            | **Oct 2024 – Present**  | Remote | Technical Mentorship & Challenges                        |
+
+
+
 
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
@@ -130,25 +134,28 @@
 
 | Certificate | Issuer | Date | Credential / Proof |
 |-------------|--------|------|---------------------|
-| 🛡️ **Foundations of Cybersecurity** | Google | Oct 2024 | `J9ILQ9T930GX` |
-| 🧠 **Google AI Essentials** | Google | Oct 2024 | `59QU8S2C3IWD` |
 | 🧮 **Deloitte Cyber Job Simulation** | Forage | Jun 2025 | [View](https://forage.com/) |
 | 📊 **Deloitte Data Analytics Simulation** | Forage | Jun 2025 | [View](https://forage.com/) |
 | 🧑‍💻 **Deloitte Technology Job Simulation** | Forage | Jun 2025 | [View](https://forage.com/) |
 | 📦 **PMx 2025 – Product Management Expedition** | Udgam, IIT Guwahati | May 2025 | `288340c3-ab38-407b-91b0-f430b291a587` |
 | 👩‍🎓 **SheFi Scholar Certificate** | SheFi | Apr 2025 | [View](https://shefi.org/) |
+| 🛡️ **Foundations of Cybersecurity** | Google | Oct 2024 |[View](https://coursera.org/share/6b6e099749e18bba38f63aa9d2b05bfa) |
+| 🧠 **Google AI Essentials** | Google | Oct 2024 | [View](https://coursera.org/share/428c0fc5ddb894e74e31bf4dcbe99e35) |
 
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </p>
 
 
-✨ **Achievements Summary**  
-- 🎓 Selected as a **SheFi Scholar 2025**, exploring the future of finance through Web3, DeFi, and AI.  
-- 🧠 Completed **Google AI & Cybersecurity certifications** with distinction.  
-- 🛠️ Active open-source contributor across **SSOC, GSSoC, JWoC**, and more.  
-- 🌐 Represented as a **Harvard WECode 2025 Scholar**, among top women in tech globally.  
-- 💬 Ongoing mentee in **Google Launchpad**, **Codess.Cafe**, and **Code; Without Barriers** communities.
+✨ **Achievements Summary**
+- 🏆 **National Semi-Finalist, Flipkart GRID 7.0** — Ranked among top teams in India in a highly competitive national-level tech challenge.
+- 🎓 Selected as a **SheFi Scholar 2025**, exploring Web3, DeFi, and AI for the future of finance.
+- 🚀 **Google Student Upskilling Launchpad (Invite-Only)** — Selected via direct Google invitation for a limited cohort; trained in DSA, interview prep, and mock interviews with Googlers.
+- 🧠 Completed **Google AI Essentials** and **Foundations of Cybersecurity** certifications with distinction.
+- 🌍 Represented as a **Harvard WECode 2025 Scholar**, among top women in tech globally.
+- 🛠️ Active open-source contributor across **GSSoC ’24, SSOC ’25**, contributing to 5+ production-grade projects.
+- 💬 Ongoing mentee in **Code; Without Barriers**, **Codess.Cafe**, and other global tech communities.
+
 
 </details>
 
@@ -282,22 +289,22 @@
 
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1S9_AiGW4DwRRk5z2A1XPdLReAu2-Kcu4/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/18tr3i8e1_2SfNN6agDO-0BXxOGI60h4I/view?usp=sharing" target="_blank">
     <img height="460px" src="https://raw.githubusercontent.com/Shristirajpoot/Shristirajpoot/main/r%20(1).png" alt="Shristi Rajpoot Resume Preview" />
   </a>
   <br><br>
-  <a href="https://drive.google.com/file/d/1S9_AiGW4DwRRk5z2A1XPdLReAu2-Kcu4/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/18tr3i8e1_2SfNN6agDO-0BXxOGI60h4I/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄 View Full Resume-green?style=for-the-badge" alt="View Resume Button">
   </a>
 
   <!-- Optional GIF (Uncomment if needed) -->
   <!--
-  <a href="https://drive.google.com/file/d/1S9_AiGW4DwRRk5z2A1XPdLReAu2-Kcu4/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/18tr3i8e1_2SfNN6agDO-0BXxOGI60h4I/view?usp=sharing">
     <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="460px" height="460px" alt="Resume GIF">
   </a>
   -->
-
 </div>
+
 
 
 
