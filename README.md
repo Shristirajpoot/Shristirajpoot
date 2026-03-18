@@ -294,17 +294,17 @@
 
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1IUFBvI5P6BpFLk_8ppRTnkWYEbw7WZQa/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1eb656olr5bv0QUFopld5iJKRPMqKxER7/view?usp=drive_link" target="_blank">
     <img height="460px" src="https://raw.githubusercontent.com/Shristirajpoot/Shristirajpoot/main/r%20(1).png" alt="Shristi Rajpoot Resume Preview" />
   </a>
   <br><br>
-  <a href="https://drive.google.com/file/d/1IUFBvI5P6BpFLk_8ppRTnkWYEbw7WZQa/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1eb656olr5bv0QUFopld5iJKRPMqKxER7/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄 View Full Resume-green?style=for-the-badge" alt="View Resume Button">
   </a>
 
   <!-- Optional GIF (Uncomment if needed) -->
   <!--
-  <a href="https://drive.google.com/file/d/1IUFBvI5P6BpFLk_8ppRTnkWYEbw7WZQa/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1eb656olr5bv0QUFopld5iJKRPMqKxER7/view?usp=drive_link">
     <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="460px" height="460px" alt="Resume GIF">
   </a>
   -->
