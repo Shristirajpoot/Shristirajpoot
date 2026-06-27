@@ -85,7 +85,7 @@ Hi! I'm <strong>Shristi Rajpoot</strong>, a Computer Science undergraduate at <s
       <tr>
   <td colspan="2" align="center">
     <b>🤖 AI & ML</b><br><br>
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,streamlit" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
   
   </td>
 </tr>
@@ -252,13 +252,10 @@ Hi! I'm <strong>Shristi Rajpoot</strong>, a Computer Science undergraduate at <s
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shristirajpoot&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="Shristirajpoot" />
 
                     
-<br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Github Metrics & All ---------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-<br>
 
 
   <h1 align="center">📊 GitHub Insights & Stats</h1>
