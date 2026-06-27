@@ -70,7 +70,7 @@ Hi! I'm <strong>Shristi Rajpoot</strong>, a Computer Science undergraduate at <s
       </td>
       <td align="center" width="340">
         <b>⚙️ Frameworks & Libraries</b><br><br>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,fastapi,tensorflow" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,fastapi,flask,threejs" />
       </td>
     </tr>
     <tr>
@@ -80,12 +80,12 @@ Hi! I'm <strong>Shristi Rajpoot</strong>, a Computer Science undergraduate at <s
       </td>
       <td align="center" width="340">
         <b>🔧 Tools & DevOps</b><br><br>
-        <img src="https://skillicons.dev/icons?i=git,docker,github,linux,vscode,postman" />
+        <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,postman,vercel,vscode" />
       </td>
       <tr>
   <td colspan="2" align="center">
     <b>🤖 AI & ML</b><br><br>
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
   
   </td>
 </tr>
