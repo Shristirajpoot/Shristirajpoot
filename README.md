@@ -31,22 +31,24 @@
 <br>
 
 <!--- About Section -->
+<!--- About Section -->
 <table align="center">
   <tr>
-    <!-- Left: Pro Coder GIF -->
     <td width="45%" align="center">
-  
-   <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="400" />
+      <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="400"/>
     </td>
-  
-   <td width="55%" valign="top">
-      <p align="left">
-        🚀 <strong>Software Engineer | AI | Blockchain | Full-Stack Development</strong> <br><br>
-        Hi! I'm <strong>Shristi Rajpoot</strong>, a builder at heart who loves merging innovation with real-world impact. My focus lies in <strong>AI-driven systems</strong> and <strong>Web3 applications</strong> that solve meaningful problems.<br><br>
-        From crafting intuitive frontend experiences to deploying intelligent backends, I thrive in full-stack ecosystems and decentralized technologies.<br><br>
-        🎓 <strong>B.Tech in Computer Science</strong> @ IIITDM Jabalpur (2023–2027)<br>
-        📍 Based in India | 🌐 Open to Collabs, Hackathons & Internships
-      </p>
+    <td width="55%" valign="top">
+
+<p align="left">
+🚀 <strong>Software Engineer • AI Engineer • Full-Stack Developer</strong><br>
+
+Hi! I'm <strong>Shristi Rajpoot</strong>, a Computer Science undergraduate at <strong>IIITDM Jabalpur</strong> passionate about building scalable software and AI-powered applications. I enjoy solving real-world problems through backend engineering, full-stack development, and modern AI technologies.
+
+🎓 <strong>B.Tech in Computer Science Engineering</strong> (2023–2027)<br>
+🏢 <strong>Tech@Lilly Summer Intern</strong> • Intern Developer @ <strong>Itransition Group</strong><br>
+📍 India • Open Source Contributor • Always building and learning.
+
+</p>
     </td>
   </tr>
 </table>
@@ -57,30 +59,36 @@
 </p>
 
 <!--- Skills Section -->
-<h2 align="center">💼 My Technical Arsenal</h2>
-<!-- Octoprofiler trigger after removing template -->
+<h2 align="center">💼 Tech Stack</h2>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="320">
+      <td align="center" width="340">
         <b>🧠 Languages</b><br><br>
-        <img src="https://skillicons.dev/icons?i=python,go,js,java,cpp,ts,html,css" />
+        <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,go,html,css" />
       </td>
-      <td align="center" width="320">
+      <td align="center" width="340">
         <b>⚙️ Frameworks & Libraries</b><br><br>
-        <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,tensorflow" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,fastapi,tensorflow" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="320">
+      <td align="center" width="340">
         <b>🗄️ Databases & Cloud</b><br><br>
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase" />
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,gcp,redis" />
       </td>
-      <td align="center" width="320">
-        <b>🔧 DevOps & Tools</b><br><br>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,aws,linux" />
+      <td align="center" width="340">
+        <b>🔧 Tools & DevOps</b><br><br>
+        <img src="https://skillicons.dev/icons?i=git,docker,github,linux,vscode,postman" />
       </td>
+      <tr>
+  <td colspan="2" align="center">
+    <b>🤖 AI & ML</b><br><br>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,streamlit" />
+  
+  </td>
+</tr>
     </tr>
   </table>
 </div>
@@ -102,30 +110,29 @@
 </p>
 
 
-### 💼 **Professional & Community Programs**
+### 💼 Professional Experience & Community Programs
 
-
-
-| Program / Role                                      | Organization                           | Duration                | Mode   | Key Skills / Highlights                                  |
-| --------------------------------------------------- | -------------------------------------- | ----------------------- | ------ | -------------------------------------------------------- |
-| 🏆 **National Finalist – Fintech Olympiad 2025)** | Fintech Olympiad                 | **2025**  | Hybrid | Qualified for national grand finale in Mumbai among nationwide teams                                     |
-| 🌱 **Trainee – Pragati: Path to Future (Cohort 5)** | Infosys Springboard                    | **May 2025 – July 2025**  | Hybrid | Java · DBMS · Python                                     |
-| 🤝 **Contributor**                                  | Social Summer of Code (SSOC, Season 4) | **May 2025 – July 2025**  | Remote | Open-source Contributions                                |
-| 🧠 **Participant – Gen AI Exchange**                | Google                                 | **Apr 2025 – August 2025**  | Remote | Vertex AI · Multimodal RAG · Gemini · Imagen · Streamlit |
-| 💻 **Mentee**                                       | Code; Without Barriers                 | **Apr 2025 – Present**  | Remote | Inclusive Innovation in Tech                             |
-| **Intern**                              | Infosys Springboard                    | **Sep 2025 – Nov 2025**  | Hybrid | Java · DBMS · Python                                     |
-| **IBM SkillsBuild Intern (Web Dev)**                | AICTE                                  | **Aug 2025 – Oct 2025** | Remote | Web Development · Responsive UI · Backend Integration    |
-| **SDE Intern**                                      | Bluestock™ 🔺                          | **Jul 2025 – Aug 2025** | Remote | Django · REST APIs · DB Optimization                     |
-| 🌐 **Mentee – Upskilling Launchpad**                | Google                                 | **Apr 2025 – May 2025** | Remote | Google Cloud & AI Mentoring                              |
-| 🔗 **Web3 Scholar – Cohort 13**                     | SheFi                                  | **Feb 2025 – Apr 2025** | Remote | Blockchain · DeFi · Web3 · AI                            |
-| 🌍 **Scholar**                                      | Harvard WECode 2025                    | **Feb 2025**            | Remote | Global Women in Tech Conference                          |
-| **🏫 Student Developer (Team Lead)**                                      | Fusion ERP Portal – IIITDMJ                  | **2025 – Present**            | On-Campus | Led 10-member dev team, Django modules, Git workflow                       |
-| 👩‍🏫 **Mentor**                                    | JGEC Winter of Code                    | **Jan 2025**            | Remote | Open Source Mentorship                                   |
-| **HPAIR Delegate**                                  | Harvard University                     | **2025**                | Hybrid     | Selected delegate for HPAIR Asia Conference              |
-| **Flipkart GRID 7.0 Finalist**                      | Flipkart                               | **2025**                |  Remote     | Among top 1% in national tech challenge                  |
-| 👩‍🔧 **Contributor**                               | GirlScript Summer of Code (GSSoC)      | **Oct 2024 – Nov 2024** | Remote | 5+ OSS Projects · 10+ Issues Solved                      |
-| 👩‍💻 **Mentee**                                    | Codess.Cafe                            | **Oct 2024 – Present**  | Remote | Technical Mentorship & Challenges                        |
-
+| Program / Role | Organization | Duration | Mode | Key Skills / Highlights |
+|----------------|-------------|----------|------|--------------------------|
+| 🚀 **Tech@Lilly Summer Intern** | Eli Lilly and Company | **Jul 2026 – Present** | On-site | Software Engineering · Enterprise Applications · Healthcare Technology |
+| 💻 **Intern Developer** | Itransition Group | **Jun 2026 – Present** | Remote | Mentor-led Software Engineering Training · .NET / Front-end Track |
+| 🏫 **Student Developer (Team Lead)** | Fusion ERP Portal – IIITDMJ | **Aug 2025 – Apr 2026** | On-Campus | Led a team of 10 developers · Django · Python · SQL · Git |
+| 💼 **Software Engineer Intern** | Infosys Springboard | **Sep 2025 – Nov 2025** | Remote | React · Node.js · Express.js · MongoDB · Socket.io |
+| 🏆 **National Finalist** | Fintech Olympiad 2025 | **Nov 2025** | Hybrid | Grand Finale Qualifier · Mumbai · National Competition |
+| 🎓 **HPAIR Asia Delegate** | Harvard University | **Aug 2025** | Hybrid | Selected delegate for HPAIR Asia Conference |
+| 🛒 **National Semi-Finalist – Flipkart GRID 7.0** | Flipkart | **Aug 2025** | Remote | Among top 1% in national tech challenge|
+| 🌐 **IBM SkillsBuild Intern (AICTE Certified)** | AICTE | **Jul 2025 – Aug 2025** | Remote | Web Development · Responsive UI · Backend Integration |
+| 🔺 **Backend Development Intern** | Bluestock Fintech | **May 2025 – Jul 2025** | Remote | Django · REST APIs · Database Optimization |
+| 🌱 **Pragati: Path to Future – Cohort 5** | Infosys Springboard | **May 2025 – Jul 2025** | Hybrid | Java · DBMS · Python |
+| 🤝 **Contributor** | Social Summer of Code (SSOC Season 4) | **May 2025 – Jul 2025** | Remote | Open Source Contributions |
+| 🤖 **Gen AI Exchange Program Participant** | Google Cloud | **Apr 2025 – Jul 2025** | Remote | Vertex AI · Gemini · Imagen · Streamlit · Multimodal RAG |
+| 💻 **Microsoft Code; Without Barriers Mentee** | Microsoft | **Apr 2025 – Jul 2025** | Remote | Inclusive Innovation · Technical Mentorship |
+| 🌐 **Google Student Upskilling Launchpad Mentee** | Google | **Apr 2025 – May 2025** | Remote | Invite-only Program · DSA · Resume Reviews · Mock Interviews with Googlers |
+| 🔗 **Web3 Scholar – Cohort 13** | SheFi | **Feb 2025 – Apr 2025** | Remote | Web3 · Blockchain · DeFi |
+| 🌍 **Harvard WECode Scholar** | Harvard University | **Feb 2025** | Remote | One of the world's largest student-run women-in-tech conferences. |
+| 👩‍🏫 **Mentor** | JGEC Winter of Code | **Jan 2025** | Remote | Open Source Mentorship |
+| 👩‍🔧 **Contributor** | GirlScript Summer of Code (GSSoC) | **Oct 2024 – Nov 2024** | Remote | 5+ Open Source Projects · Issue Resolution |
+| 👩‍💻 **Mentee** | Codess.Cafe | **Oct 2024 – Nov 2025** | Remote | Technical Mentorship · Interview Preparation |
 
 
 
@@ -134,32 +141,38 @@
 </p>
 
 
-### 📜 **Technical Certifications**
+### 📜 Technical Certifications
 
 | Certificate | Issuer | Date | Credential / Proof |
 |-------------|--------|------|---------------------|
-| 🧮 **Deloitte Cyber Job Simulation** | Forage | Jun 2025 | [View](https://forage.com/) |
-| 📊 **Deloitte Data Analytics Simulation** | Forage | Jun 2025 | [View](https://forage.com/) |
-| 🧑‍💻 **Deloitte Technology Job Simulation** | Forage | Jun 2025 | [View](https://forage.com/) |
-| 📦 **PMx 2025 – Product Management Expedition** | Udgam, IIT Guwahati | May 2025 | `288340c3-ab38-407b-91b0-f430b291a587` |
-| 👩‍🎓 **SheFi Scholar Certificate** | SheFi | Apr 2025 | [View](https://shefi.org/) |
-| 🛡️ **Foundations of Cybersecurity** | Google | Oct 2024 |[View](https://coursera.org/share/6b6e099749e18bba38f63aa9d2b05bfa) |
-| 🧠 **Google AI Essentials** | Google | Oct 2024 | [View](https://coursera.org/share/428c0fc5ddb894e74e31bf4dcbe99e35) |
-
+| 🤖 **Bring AI to Work Workshop** | Google Workspace | **Jun 2025** | Credential ID: `4511029214SR` |
+| 🧑‍💻 **IBM Data Science Methodology** | IBM | **Jul 2025** | Credential ID: `QG5YOAYDBITV` |
+| 📊 **IBM What is Data Science?** | IBM | **Jul 2025** | Credential ID: `S221G3JGYQF4` |
+| 📈 **Tata – GenAI Powered Data Analytics Job Simulation** | Forage | **Jul 2025** | [View](https://www.theforage.com/) |
+| 📉 **Tata – Data Visualisation Job Simulation** | Forage | **Jul 2025** | [View](https://www.theforage.com/) |
+| 🧮 **Deloitte Technology Job Simulation** | Forage | **Jun 2025** | [View](https://www.theforage.com/) |
+| 🔐 **Deloitte Cyber Job Simulation** | Forage | **Jun 2025** | [View](https://www.theforage.com/) |
+| 📊 **Deloitte Data Analytics Job Simulation** | Forage | **Jun 2025** | [View](https://www.theforage.com/) |
+| 📦 **PMx 2025 – Product Management Expedition** | Udgam, IIT Guwahati | **May 2025** | Credential ID: `288340c3-ab38-407b-91b0-f430b291a587` |
+| 🛡️ **Google AI Essentials** | Google | **Oct 2024** | [View](https://coursera.org/share/428c0fc5ddb894e74e31bf4dcbe99e35) |
+| 🔒 **Foundations of Cybersecurity** | Google | **Oct 2024** | [View](https://coursera.org/share/6b6e099749e18bba38f63aa9d2b05bfa) |
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </p>
 
 
 ✨ **Achievements Summary**
-- 🏆 **National Finalist – Fintech Olympiad 2025** — Qualified for national grand finale in Mumbai among nationwide participants.
-- 🏆 **National Semi-Finalist, Flipkart GRID 7.0** — Ranked among top teams in India in a highly competitive national-level tech challenge.
-- 🎓 Selected as a **SheFi Scholar 2025**, exploring Web3, DeFi, and AI for the future of finance.
-- 🚀 **Google Student Upskilling Launchpad (Invite-Only)** — Selected via direct Google invitation for a limited cohort; trained in DSA, interview prep, and mock interviews with Googlers.
-- 🧠 Completed **Google AI Essentials** and **Foundations of Cybersecurity** certifications with distinction.
-- 🌍 Represented as a **Harvard WECode 2025 Scholar**, among top women in tech globally.
-- 🛠️ Active open-source contributor across **GSSoC ’24, SSOC ’25**, contributing to 5+ production-grade projects.
-- 💬 Ongoing mentee in **Code; Without Barriers**, **Codess.Cafe**, and other global tech communities.
+
+* 🏆 **NPTEL Computer Science Discipline Star (IIT Madras, 2026)** — Recognized for outstanding performance across multiple NPTEL certification courses in the Computer Science discipline.
+* 🚀 **Tech@Lilly Summer Intern (2026)** — Selected for Eli Lilly's highly competitive Software Engineering internship program.
+* 🏆 **National Finalist – Fintech Olympiad 2025** — Qualified for the Grand Finale in Mumbai and received a Gold Pass for IFTA 2025.
+* 🛒 **National Semi-Finalist – Flipkart GRID 7.0** — Advanced to the national semi-finals of Flipkart's flagship software engineering challenge.
+* 🌍 **HPAIR Asia 2025 Delegate** — Represented India at the Harvard Project for Asian & International Relations (Tokyo, Japan).
+* 🎓 **Harvard WECode 2025 Scholar** — Selected to participate in one of the world's largest student-run women-in-tech conferences.
+* 🤖 **Google Student Upskilling Launchpad (Invite-Only)** — Selected for Google's exclusive mentorship program featuring DSA training, resume reviews, and mock interviews with Googlers.
+* ☁️ **Google Cloud Gen AI Exchange Program** — Completed hands-on training in Vertex AI, Gemini, Imagen, Streamlit, and Multimodal RAG through the Gen AI Academy.
+* 🌱 **Microsoft Code; Without Barriers & SheFi Scholar** — Selected for global mentorship programs focused on inclusive technology and Web3 innovation.
+* 🛠️ **Open Source Contributor & Mentor** — Contributed to GSSoC '24 and SSOC '25, and served as a mentor for JGEC Winter of Code while collaborating on production-grade open-source projects.
 
 
 </details>
@@ -167,30 +180,40 @@
 
 <br>
 <br>
-<h1 align="center">📚 Latest Blog Posts</h2>
+
+<h1 align="center">🚀 Currently Building & Exploring</h1>
 
 <div align="center">
   <table>
     <tr>
-      <td width="40%" valign="top">
+      <td width="40%" valign="top" align="center">
         <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="300">
       </td>
       <td width="60%" valign="top">
-        <a href="https://medium.com/@shristirajpoot369">
-          <img src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/>
-        </a>
-        <br><br>
-        <ul>
-          <li><a href="https://medium.com/@shristirajpoot369/mastering-prompt-design-in-vertex-ai-my-ai-journey-begins-bfe6a2e78846">📌 Mastering Prompt Design in Vertex AI</a></li>
-          <li><a href="https://medium.com/@shristirajpoot369/building-real-world-ai-apps-with-gemini-imagen-a-creative-leap-e158cb225763">🎨 Building Real-World AI Apps with Gemini</a></li>
-          <li><a href="https://medium.com/@shristirajpoot369/unlocking-ais-full-potential-my-experience-with-gemini-multimodality-and-rag-1ad5d5b5d248">🧠 Unlocking AI’s Full Potential</a></li>
-          <li><a href="https://medium.com/@shristirajpoot369/from-idea-to-deployment-building-genai-apps-with-gemini-and-streamlit-a06820876c4e">🚀 From Idea to Deployment with Gemini</a></li>
-          <li><a href="https://medium.com/@shristirajpoot369/from-prompts-to-possibilities-exploring-generative-ai-with-the-gemini-api-39b0908bd36a">💡 Exploring Generative AI with Gemini API</a></li>
-        </ul>
+
+<a href="https://github.com/Shristirajpoot?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+### 💡 Current Focus
+
+- 🏢 Building enterprise software as a **Tech@Lilly Summer Intern**
+- 🤖 Developing AI applications using LLMs, RAG & Agentic Workflows
+- ⚡ Designing scalable backend systems with **FastAPI, Django & Node.js**
+- 🌐 Crafting modern full-stack applications using **React & Next.js**
+- ☁️ Exploring **Cloud, Docker, Redis & Distributed Systems**
+- 🛠️ Contributing to **Open Source** and improving production-grade projects
+- 📚 Strengthening **Data Structures, Algorithms & System Design**
+- 🚀 Continuously building real-world projects that solve meaningful problems
+
+<br>
+
+> **"I enjoy transforming ideas into scalable software through AI, backend engineering, and full-stack development."**
       </td>
     </tr>
   </table>
 </div>
+
 
 <!-- BLOG-POST-LIST:END -->
 
@@ -201,32 +224,7 @@
 <!------------------   -------------------------------------------------------------------- -->
 <!---------------- Recommend Blog Post ----------------------------------------------------- -->
 <!---------------------  ------------------------------------------------------------------- -->
-<div align="center">
 
-<h1><b>🎧 My Spotify Updates 🎧</b></h1>
-
-<table>
-  <tr>
-    <td>
-      <!-- Now Playing Widget -->
-      <a href="https://open.spotify.com/user/31vkuy4r674wgg6amt7jbhj2lti4">
-        <img src="https://novatorem-eta-seven.vercel.app/api/spotify" alt="Now Playing on Spotify" />
-      </a>
-    </td>
-
-   <td>
-      <!-- Playlist Section -->
-      <div align="center">
-        <h3><b>🎵 My Spotify Playlist 🎵</b></h3>
-        <a href="https://open.spotify.com/user/31vkuy4r674wgg6amt7jbhj2lti4">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="150px" alt="Spotify Playlist" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 
 
@@ -253,9 +251,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shristirajpoot&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="Shristirajpoot" />
 
-
-
-</details>                     
+                    
 <br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -264,36 +260,40 @@
 
 <br>
 
-<h1 align="center">📊 My GitHub Insights & Stats</h1>
 
-<br/>
-<br/>
+  <h1 align="center">📊 GitHub Insights & Stats</h1>
+
+<p align="center">
+  <i>Auto-updated daily via GitHub Actions ⚡</i>
+</p>
 
 <details>
-  <summary>Expand</summary> 
+<summary><b>📈 Expand Metrics</b></summary>
 
-| Overview | Follow up Issues & PRs |
-|:--------:|:-------------------------:|
-| ![Lines of Code & Base Introduction](https://raw.githubusercontent.com/Shristirajpoot/metrics/master/assets/metrics.plugin.code.lines.svg) | ![Follow up Issues & PRs](https://raw.githubusercontent.com/Shristirajpoot/metrics/master/assets/metrics.plugin.followup.svg) |
-| Leetcode Stats | Notable Contributions |
-| ![Leetcode Stats](https://raw.githubusercontent.com/Shristirajpoot/metrics/master/assets/metrics.plugin.leetcode.svg) | ![Notable Contributions](https://raw.githubusercontent.com/Shristirajpoot/metrics/master/assets/metrics.plugin.notable.contributions.svg) |
-| Achievements | Language Activity |
-| ![Achievements](https://raw.githubusercontent.com/Shristirajpoot/metrics/master/assets/metrics.plugin.achievements.svg) | ![Language Activity](https://raw.githubusercontent.com/Shristirajpoot/metrics/master/assets/metrics.plugin.languages.activity.svg) |
-| Discussions | Reactions |
-| ![Discussions](https://raw.githubusercontent.com/Shristirajpoot/metrics/master/assets/metrics.plugin.discussions.svg) | ![Reactions](https://raw.githubusercontent.com/Shristirajpoot/metrics/master/assets/metrics.plugin.reactions.svg) |
+
+
+| 🏆 LeetCode | 🌍 Language Activity |
+|:-----------:|:--------------------:|
+| ![](https://raw.githubusercontent.com/Shristirajpoot/metrics/master/assets/metrics.plugin.leetcode.svg) | ![](https://raw.githubusercontent.com/Shristirajpoot/metrics/master/assets/metrics.plugin.languages.activity.svg) |
+
+| 🔄 Issues & PRs | ❤️ Community Reactions |
+|:---------------:|:----------------------:|
+| ![](https://raw.githubusercontent.com/Shristirajpoot/metrics/master/assets/metrics.plugin.followup.svg) | ![](https://raw.githubusercontent.com/Shristirajpoot/metrics/master/assets/metrics.plugin.reactions.svg) |
 
 </details>
 
+
 <p align="right">
-  <i>⏰ Auto-updated daily at midnight UTC via GitHub Actions</i><br>
-  <img src="https://github.com/Shristirajpoot/metrics/actions/workflows/metrics.yml/badge.svg" alt="Metrics Workflow Status"/>
+  <i>⏰ Auto-updated daily at midnight UTC</i><br>
+  <img src="https://github.com/Shristirajpoot/metrics/actions/workflows/metrics.yml/badge.svg"/>
 </p>
+ 
 
 <hr>
 
 <div align="center">
   <a href="https://drive.google.com/file/d/19GAdNis6KAxiAPrU2HT0ecrZAsfYb04n/view?usp=drive_link" target="_blank">
-    <img height="460px" src="https://raw.githubusercontent.com/Shristirajpoot/Shristirajpoot/main/r%20(1).png" alt="Shristi Rajpoot Resume Preview" />
+    <img height="400px" src="https://raw.githubusercontent.com/Shristirajpoot/Shristirajpoot/main/r%20(1).png" alt="Shristi Rajpoot Resume Preview" />
   </a>
   <br><br>
   <a href="https://drive.google.com/file/d/19GAdNis6KAxiAPrU2HT0ecrZAsfYb04n/view?usp=drive_link" target="_blank">
@@ -317,7 +317,7 @@
 <!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<h1 align="center">🔥 The Online Hangout</h2>
+<h1 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
 
@@ -328,8 +328,8 @@
 <a href="https://medium.com/@shristirajpoot369">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="https://instagram.com/_shristirajpoot">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.codechef.com/users/greedycoder234">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
 <br />
@@ -351,26 +351,19 @@
 <a href="https://github.com/Shristirajpoot">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://x.com/ShristiRajpoot">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
+
 <a href="https://portfolio-avc2.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<br />
-
-<!-- Row 4 -->
-<a href="https://www.facebook.com/shristi.rajpoot.967">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="https://mail.google.com/mail/?view=cm&to=shristirajpoot369@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://discordapp.com/users/shristi_rajpoot_74367">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+<br />
+
+<!-- Row 4 -->
+
+
 
 </p>
 
@@ -394,18 +387,6 @@
    </a>
 </p>
 
-<div align="center">
-
-<h1>🚀 Top Repositories</h1>
-
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
-</p>
-
-| Repository | Repository |
-|------------|------------|
-| <a href="https://github.com/Shristirajpoot/Disaster-Relief-and-Rescue-System"><strong>Disaster Relief & Rescue</strong></a><br>Python · AI/ML · Full Stack<br><img src="https://img.shields.io/badge/Stars-⭐-FFD700?style=for-the-badge&logo=github"> <img src="https://img.shields.io/badge/Forks-🖇️-FFD700?style=for-the-badge&logo=github"> | <a href="https://github.com/Shristirajpoot/bakery"><strong>Bakery Management System</strong></a><br>JavaScript · Web Dev · Frontend<br><img src="https://img.shields.io/badge/Stars-⭐-FFA500?style=for-the-badge&logo=github"> <img src="https://img.shields.io/badge/Forks-🖇️-FFA500?style=for-the-badge&logo=github"> |
-| <a href="https://github.com/Shristirajpoot/Gestura-Retail-Accessibility-AI"><strong>Gestura AI</strong></a><br>Python · AI · Accessibility<br><img src="https://img.shields.io/badge/Stars-⭐-32CD32?style=for-the-badge&logo=github"> <img src="https://img.shields.io/badge/Forks-🖇️-32CD32?style=for-the-badge&logo=github"> | <a href="https://github.com/Shristirajpoot/WebClonePro"><strong>WebClonePro</strong></a><br>JavaScript · Web3 · Cloning Tool<br><img src="https://img.shields.io/badge/Stars-⭐-9370DB?style=for-the-badge&logo=github"> <img src="https://img.shields.io/badge/Forks-🖇️-9370DB?style=for-the-badge&logo=github"> |
 
 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
@@ -417,29 +398,7 @@
 
 <!-- ---------------------------------------STATS------------------------------------------
 --------------------------------------------------------------------------------------------- -->
-<!-- 📈 GitHub Stats Section -->
-<h1 align="center">📈 GitHub Stats</h1>
 
-
-<br>
-
-
-        
-<!-- ---------------------------------------STATS------------------------------------------
---------------------------------------------------------------------------------------------- -->      
-        
-          
-
-<br>      
-<details>
- 
-  <br />
-  <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shristirajpoot&theme=github_dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shristirajpoot&theme=github_dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shristirajpoot&theme=github_dark&utcOffset=5.5" />
-  </p>
-</details>
 
 <br><br>
 
@@ -447,9 +406,6 @@
 <!-- ---------------------------------------3D Contributor------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
-</p>
 
 
 <h1 align="center">🐍 GitHub Contributions in Snake Game</h1>
