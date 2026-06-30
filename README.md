@@ -45,7 +45,7 @@
 Hi! I'm <strong>Shristi Rajpoot</strong>, a Computer Science undergraduate at <strong>IIITDM Jabalpur</strong> passionate about building scalable software and AI-powered applications. I enjoy solving real-world problems through backend engineering, full-stack development, and modern AI technologies.
 
 🎓 <strong>B.Tech in Computer Science Engineering</strong> (2023–2027)<br>
-🏢 <strong>Tech@Lilly Summer Intern</strong> • Intern Developer @ <strong>Itransition Group</strong><br>
+ Intern Developer @ <strong>Itransition Group</strong><br>
 📍 India • Open Source Contributor • Always building and learning.
 
 </p>
@@ -114,7 +114,6 @@ Hi! I'm <strong>Shristi Rajpoot</strong>, a Computer Science undergraduate at <s
 
 | Program / Role | Organization | Duration | Mode | Key Skills / Highlights |
 |----------------|-------------|----------|------|--------------------------|
-| 🚀 **Tech@Lilly Summer Intern** | Eli Lilly and Company | **Jul 2026 – Present** | On-site | Software Engineering · Enterprise Applications · Healthcare Technology |
 | 💻 **Intern Developer** | Itransition Group | **Jun 2026 – Present** | Remote | Mentor-led Software Engineering Training · .NET / Front-end Track |
 | 🏫 **Student Developer (Team Lead)** | Fusion ERP Portal – IIITDMJ | **Aug 2025 – Apr 2026** | On-Campus | Led a team of 10 developers · Django · Python · SQL · Git |
 | 💼 **Software Engineer Intern** | Infosys Springboard | **Sep 2025 – Nov 2025** | Remote | React · Node.js · Express.js · MongoDB · Socket.io |
@@ -164,7 +163,6 @@ Hi! I'm <strong>Shristi Rajpoot</strong>, a Computer Science undergraduate at <s
 ✨ **Achievements Summary**
 
 * 🏆 **NPTEL Computer Science Discipline Star (IIT Madras, 2026)** — Recognized for outstanding performance across multiple NPTEL certification courses in the Computer Science discipline.
-* 🚀 **Tech@Lilly Summer Intern (2026)** — Selected for Eli Lilly's highly competitive Software Engineering internship program.
 * 🏆 **National Finalist – Fintech Olympiad 2025** — Qualified for the Grand Finale in Mumbai and received a Gold Pass for IFTA 2025.
 * 🛒 **National Semi-Finalist – Flipkart GRID 7.0** — Advanced to the national semi-finals of Flipkart's flagship software engineering challenge.
 * 🌍 **HPAIR Asia 2025 Delegate** — Represented India at the Harvard Project for Asian & International Relations (Tokyo, Japan).
@@ -197,7 +195,6 @@ Hi! I'm <strong>Shristi Rajpoot</strong>, a Computer Science undergraduate at <s
 
 ### 💡 Current Focus
 
-- 🏢 Building enterprise software as a **Tech@Lilly Summer Intern**
 - 🤖 Developing AI applications using LLMs, RAG & Agentic Workflows
 - ⚡ Designing scalable backend systems with **FastAPI, Django & Node.js**
 - 🌐 Crafting modern full-stack applications using **React & Next.js**
