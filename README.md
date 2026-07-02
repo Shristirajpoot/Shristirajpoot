@@ -45,7 +45,7 @@
 Hi! I'm <strong>Shristi Rajpoot</strong>, a Computer Science undergraduate at <strong>IIITDM Jabalpur</strong> passionate about building scalable software and AI-powered applications. I enjoy solving real-world problems through backend engineering, full-stack development, and modern AI technologies.
 
 🎓 <strong>B.Tech in Computer Science Engineering</strong> (2023–2027)<br>
- Intern Developer @ <strong>Itransition Group</strong><br>
+🏢 <strong>Tech@Lilly Summer Intern</strong> • Intern Developer @ <strong>Itransition Group</strong><br>
 📍 India • Open Source Contributor • Always building and learning.
 
 </p>
@@ -113,6 +113,7 @@ Hi! I'm <strong>Shristi Rajpoot</strong>, a Computer Science undergraduate at <s
 
 | Role | Organization | Duration | Mode | Highlights |
 |------|--------------|----------|------|------------|
+| 🚀 **Tech@Lilly Summer Intern** | Eli Lilly and Company | **Jul 2026 – Present** | Remote | Software Engineering · Enterprise Applications · Healthcare Technology |
 | 💻 **Intern Developer** | Itransition Group | **Jun 2026 – Present** | Remote | Mentor-led Software Engineering Program · .NET · Front-end Engineering |
 | 🏫 **Student Developer (Team Lead)** | Fusion ERP Portal – IIITDM Jabalpur | **Aug 2025 – Apr 2026** | On-Campus | Led a team of 10 developers · Django · Python · SQL · Git |
 | 💼 **Software Engineer Intern** | Infosys Springboard | **Sep 2025 – Nov 2025** | Remote | React · Node.js · Express.js · MongoDB · Socket.IO |
@@ -167,6 +168,7 @@ Hi! I'm <strong>Shristi Rajpoot</strong>, a Computer Science undergraduate at <s
 ## 🏆 Highlights & Achievements
 
 - 🤖 **Amazon ML Summer School 2026** — Selected among **3,000 students from 134K+ applicants (Top 2.2%)** through Amazon's competitive multi-stage selection process.
+- 💊 **Selected for Tech@Lilly Summer Internship 2026** — Received a Software Engineering internship offer from Eli Lilly after the competitive selection process.
 - 🌍 **Harvard WECode Scholar** — Selected for one of the world's largest student-run women-in-tech conferences hosted by Harvard University.
 - 🌏 **HPAIR Asia Delegate** — Represented India at the Harvard Project for Asian & International Relations held at the University of Tokyo.
 - 🏆 **NPTEL Computer Science Discipline Star (IIT Madras, 2026)** — Recognized for outstanding performance across multiple Computer Science certification courses.
