@@ -100,78 +100,82 @@ Hi! I'm <strong>Shristi Rajpoot</strong>, a Computer Science undergraduate at <s
 <br>
 <br>
 <details>
-  <summary>🏅 Experience & Certifications</summary>
+  <summary>🏅 Experience, Fellowships & Certifications</summary>
   <br>
 
-📄 A curated list of my professional programs, certifications, mentorships, and recognitions that reflect my journey in tech, open source, AI, DevOps, Web3, and leadership.
+📄 A curated collection of my professional experience, global fellowships, technical programs, certifications, and recognitions across Software Engineering, Artificial Intelligence, Machine Learning, Open Source, and Cloud Technologies.
 
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </p>
 
+## 💼 Professional Experience
 
-### 💼 Professional Experience & Community Programs
-
-| Program / Role | Organization | Duration | Mode | Key Skills / Highlights |
-|----------------|-------------|----------|------|--------------------------|
-| 💻 **Intern Developer** | Itransition Group | **Jun 2026 – Present** | Remote | Mentor-led Software Engineering Training · .NET / Front-end Track |
-| 🏫 **Student Developer (Team Lead)** | Fusion ERP Portal – IIITDMJ | **Aug 2025 – Apr 2026** | On-Campus | Led a team of 10 developers · Django · Python · SQL · Git |
-| 💼 **Software Engineer Intern** | Infosys Springboard | **Sep 2025 – Nov 2025** | Remote | React · Node.js · Express.js · MongoDB · Socket.io |
-| 🏆 **National Finalist** | Fintech Olympiad 2025 | **Nov 2025** | Hybrid | Grand Finale Qualifier · Mumbai · National Competition |
-| 🎓 **HPAIR Asia Delegate** | Harvard University | **Aug 2025** | Hybrid | Selected delegate for HPAIR Asia Conference |
-| 🛒 **National Semi-Finalist – Flipkart GRID 7.0** | Flipkart | **Aug 2025** | Remote | Among top 1% in national tech challenge|
-| 🌐 **IBM SkillsBuild Intern (AICTE Certified)** | AICTE | **Jul 2025 – Aug 2025** | Remote | Web Development · Responsive UI · Backend Integration |
-| 🔺 **Backend Development Intern** | Bluestock Fintech | **May 2025 – Jul 2025** | Remote | Django · REST APIs · Database Optimization |
-| 🌱 **Pragati: Path to Future – Cohort 5** | Infosys Springboard | **May 2025 – Jul 2025** | Hybrid | Java · DBMS · Python |
-| 🤝 **Contributor** | Social Summer of Code (SSOC Season 4) | **May 2025 – Jul 2025** | Remote | Open Source Contributions |
-| 🤖 **Gen AI Exchange Program Participant** | Google Cloud | **Apr 2025 – Jul 2025** | Remote | Vertex AI · Gemini · Imagen · Streamlit · Multimodal RAG |
-| 💻 **Microsoft Code; Without Barriers Mentee** | Microsoft | **Apr 2025 – Jul 2025** | Remote | Inclusive Innovation · Technical Mentorship |
-| 🌐 **Google Student Upskilling Launchpad Mentee** | Google | **Apr 2025 – May 2025** | Remote | Invite-only Program · DSA · Resume Reviews · Mock Interviews with Googlers |
-| 🔗 **Web3 Scholar – Cohort 13** | SheFi | **Feb 2025 – Apr 2025** | Remote | Web3 · Blockchain · DeFi |
-| 🌍 **Harvard WECode Scholar** | Harvard University | **Feb 2025** | Remote | One of the world's largest student-run women-in-tech conferences. |
-| 👩‍🏫 **Mentor** | JGEC Winter of Code | **Jan 2025** | Remote | Open Source Mentorship |
-| 👩‍🔧 **Contributor** | GirlScript Summer of Code (GSSoC) | **Oct 2024 – Nov 2024** | Remote | 5+ Open Source Projects · Issue Resolution |
-| 👩‍💻 **Mentee** | Codess.Cafe | **Oct 2024 – Nov 2025** | Remote | Technical Mentorship · Interview Preparation |
-
-
+| Role | Organization | Duration | Mode | Highlights |
+|------|--------------|----------|------|------------|
+| 💻 **Intern Developer** | Itransition Group | **Jun 2026 – Present** | Remote | Mentor-led Software Engineering Program · .NET · Front-end Engineering |
+| 🏫 **Student Developer (Team Lead)** | Fusion ERP Portal – IIITDM Jabalpur | **Aug 2025 – Apr 2026** | On-Campus | Led a team of 10 developers · Django · Python · SQL · Git |
+| 💼 **Software Engineer Intern** | Infosys Springboard | **Sep 2025 – Nov 2025** | Remote | React · Node.js · Express.js · MongoDB · Socket.IO |
+| 🔺 **Backend Development Intern** | Bluestock Fintech | **May 2025 – Jul 2025** | Remote | FastAPI · Django · REST APIs · PostgreSQL |
 
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </p>
 
+## 🌍 Fellowships, Leadership & Global Programs
 
-### 📜 Technical Certifications
+| Program | Organization | Duration | Highlights |
+|----------|--------------|----------|------------|
+| 🤖 **Amazon ML Summer School 2026** | Amazon | **Jul – Aug 2026** | Selected among **3,000 students from 134K+ applicants (Top 2.2%)** |
+| 🎓 **HPAIR Asia Delegate** | Harvard Project for Asian & International Relations | **Aug 2025** | Represented India at the University of Tokyo |
+| 🌍 **Harvard WECode Scholar** | Harvard University | **Feb 2025** | Selected for one of the world's largest student-run women-in-tech conferences |
+| 🌐 **Google Student Upskilling Launchpad** | Google | **Apr – May 2025** | Invite-only mentorship program |
+| 🤖 **Google Cloud Gen AI Exchange Program** | Google Cloud | **Apr – Jul 2025** | Gemini · Vertex AI · Imagen · Multimodal RAG |
+| 💻 **Microsoft Code; Without Barriers Mentee** | Microsoft | **Apr – Jul 2025** | AI & Software Engineering Mentorship |
+| 🌱 **Pragati: Path to Future – Cohort 5** | Infosys Springboard | **May – Jul 2025** | Software Engineering & Professional Development |
+| 🌐 **IBM SkillsBuild Intern (AICTE Certified)** | IBM SkillsBuild × AICTE | **Jul – Aug 2025** | Full-Stack Web Development |
+| 🔗 **SheFi Scholar (Cohort 13)** | SheFi | **Feb – Apr 2025** | Web3 · Blockchain · DeFi |
+| 👩‍💻 **Codess.Cafe Mentee** | Codess.Cafe | **Oct 2024 – Nov 2025** | Technical Mentorship |
+| 👩‍🏫 **Mentor** | JGEC Winter of Code | **Jan 2025** | Open Source Mentorship |
+| 🤝 **Contributor** | Social Summer of Code (SSOC Season 4) | **May – Jul 2025** | Open Source Contributions |
+| 👩‍🔧 **Contributor** | GirlScript Summer of Code (GSSoC '24) | **Oct – Nov 2024** | Contributed to 5+ Open Source Projects |
 
-| Certificate | Issuer | Date | Credential / Proof |
-|-------------|--------|------|---------------------|
-| 🤖 **Bring AI to Work Workshop** | Google Workspace | **Jun 2025** | Credential ID: `4511029214SR` |
-| 🧑‍💻 **IBM Data Science Methodology** | IBM | **Jul 2025** | Credential ID: `QG5YOAYDBITV` |
-| 📊 **IBM What is Data Science?** | IBM | **Jul 2025** | Credential ID: `S221G3JGYQF4` |
-| 📈 **Tata – GenAI Powered Data Analytics Job Simulation** | Forage | **Jul 2025** | [View](https://www.theforage.com/) |
-| 📉 **Tata – Data Visualisation Job Simulation** | Forage | **Jul 2025** | [View](https://www.theforage.com/) |
-| 🧮 **Deloitte Technology Job Simulation** | Forage | **Jun 2025** | [View](https://www.theforage.com/) |
-| 🔐 **Deloitte Cyber Job Simulation** | Forage | **Jun 2025** | [View](https://www.theforage.com/) |
-| 📊 **Deloitte Data Analytics Job Simulation** | Forage | **Jun 2025** | [View](https://www.theforage.com/) |
-| 📦 **PMx 2025 – Product Management Expedition** | Udgam, IIT Guwahati | **May 2025** | Credential ID: `288340c3-ab38-407b-91b0-f430b291a587` |
-| 🛡️ **Google AI Essentials** | Google | **Oct 2024** | [View](https://coursera.org/share/428c0fc5ddb894e74e31bf4dcbe99e35) |
-| 🔒 **Foundations of Cybersecurity** | Google | **Oct 2024** | [View](https://coursera.org/share/6b6e099749e18bba38f63aa9d2b05bfa) |
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </p>
 
+## 📜 Technical Certifications
 
-✨ **Achievements Summary**
+| Certification | Issuer |
+|---------------|--------|
+| 🤖 Bring AI to Work Workshop | Google Workspace |
+| 🧑‍💻 IBM Data Science Methodology | IBM |
+| 📊 IBM What is Data Science? | IBM |
+| 📈 Tata GenAI Powered Data Analytics Job Simulation | Tata |
+| 📉 Tata Data Visualisation Job Simulation | Tata |
+| 🧮 Deloitte Technology Job Simulation | Deloitte |
+| 🔐 Deloitte Cyber Job Simulation | Deloitte |
+| 📊 Deloitte Data Analytics Job Simulation | Deloitte |
+| 📦 PMx 2025 – Product Management Expedition | IIT Guwahati |
+| 🛡️ Google AI Essentials | Google |
+| 🔒 Foundations of Cybersecurity | Google |
 
-* 🏆 **NPTEL Computer Science Discipline Star (IIT Madras, 2026)** — Recognized for outstanding performance across multiple NPTEL certification courses in the Computer Science discipline.
-* 🏆 **National Finalist – Fintech Olympiad 2025** — Qualified for the Grand Finale in Mumbai and received a Gold Pass for IFTA 2025.
-* 🛒 **National Semi-Finalist – Flipkart GRID 7.0** — Advanced to the national semi-finals of Flipkart's flagship software engineering challenge.
-* 🌍 **HPAIR Asia 2025 Delegate** — Represented India at the Harvard Project for Asian & International Relations (Tokyo, Japan).
-* 🎓 **Harvard WECode 2025 Scholar** — Selected to participate in one of the world's largest student-run women-in-tech conferences.
-* 🤖 **Google Student Upskilling Launchpad (Invite-Only)** — Selected for Google's exclusive mentorship program featuring DSA training, resume reviews, and mock interviews with Googlers.
-* ☁️ **Google Cloud Gen AI Exchange Program** — Completed hands-on training in Vertex AI, Gemini, Imagen, Streamlit, and Multimodal RAG through the Gen AI Academy.
-* 🌱 **Microsoft Code; Without Barriers & SheFi Scholar** — Selected for global mentorship programs focused on inclusive technology and Web3 innovation.
-* 🛠️ **Open Source Contributor & Mentor** — Contributed to GSSoC '24 and SSOC '25, and served as a mentor for JGEC Winter of Code while collaborating on production-grade open-source projects.
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+</p>
 
+## 🏆 Highlights & Achievements
+
+- 🤖 **Amazon ML Summer School 2026** — Selected among **3,000 students from 134K+ applicants (Top 2.2%)** through Amazon's competitive multi-stage selection process.
+- 🌍 **Harvard WECode Scholar** — Selected for one of the world's largest student-run women-in-tech conferences hosted by Harvard University.
+- 🌏 **HPAIR Asia Delegate** — Represented India at the Harvard Project for Asian & International Relations held at the University of Tokyo.
+- 🏆 **NPTEL Computer Science Discipline Star (IIT Madras, 2026)** — Recognized for outstanding performance across multiple Computer Science certification courses.
+- 🥇 **National Finalist — Fintech Olympiad 2025** — Qualified for the National Grand Finale among thousands of participants across India.
+- 🛒 **National Semi-Finalist — Flipkart GRID 7.0** — Advanced to the national semi-finals of Flipkart's flagship Software Engineering challenge.
+- 🌐 **Google Student Upskilling Launchpad (Invite-only)** — Selected for Google's exclusive mentorship program featuring DSA, resume reviews, and mock interviews with Googlers.
+- ☁️ **Google Cloud Gen AI Exchange Program** — Completed hands-on training in Gemini, Vertex AI, Imagen, Streamlit, and Multimodal RAG.
+- 🌱 **Microsoft Code; Without Barriers & SheFi Scholar** — Selected for global mentorship programs focused on AI, Software Engineering, and Web3.
+- 🛠️ **Open Source Contributor & Mentor** — Contributed to GSSoC '24, SSOC '25, and mentored developers during JGEC Winter of Code.
 
 </details>
 
@@ -284,13 +288,12 @@ Hi! I'm <strong>Shristi Rajpoot</strong>, a Computer Science undergraduate at <s
  
 
 <hr>
-
 <div align="center">
-  <a href="https://drive.google.com/file/d/19GAdNis6KAxiAPrU2HT0ecrZAsfYb04n/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1WsVUv8OXFOa0m3jB1DbECd-SFPc8T1cQ/view?usp=drive_link" target="_blank">
     <img height="400px" src="https://raw.githubusercontent.com/Shristirajpoot/Shristirajpoot/main/r%20(1).png" alt="Shristi Rajpoot Resume Preview" />
   </a>
   <br><br>
-  <a href="https://drive.google.com/file/d/19GAdNis6KAxiAPrU2HT0ecrZAsfYb04n/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1WsVUv8OXFOa0m3jB1DbECd-SFPc8T1cQ/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄 View Full Resume-green?style=for-the-badge" alt="View Resume Button">
   </a>
 
