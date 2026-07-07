@@ -113,7 +113,7 @@ Hi! I'm <strong>Shristi Rajpoot</strong>, a Computer Science undergraduate at <s
 
 | Role | Organization | Duration | Mode | Highlights |
 |------|--------------|----------|------|------------|
-| 🚀 **Tech@Lilly Summer Intern** | Eli Lilly and Company | **Jun 2026 – Present** | Remote | Software Engineering · Enterprise Applications · Healthcare Technology |
+| 🚀 **Tech@Lilly Summer Intern** | Eli Lilly and Company | **Jun 2026 – Present** | Onsite | Software Engineering · Enterprise Applications · Healthcare Technology |
 | 💻 **Intern Developer** | Itransition Group | **Apr 2026 – May** | Remote | Mentor-led Software Engineering Program · .NET · Front-end Engineering |
 | 🏫 **Student Developer (Team Lead)** | Fusion ERP Portal – IIITDM Jabalpur | **Aug 2025 – Apr 2026** | On-Campus | Led a team of 10 developers · Django · Python · SQL · Git |
 | 💼 **Software Engineer Intern** | Infosys Springboard | **Sep 2025 – Nov 2025** | Remote | React · Node.js · Express.js · MongoDB · Socket.IO |
