@@ -113,8 +113,8 @@ Hi! I'm <strong>Shristi Rajpoot</strong>, a Computer Science undergraduate at <s
 
 | Role | Organization | Duration | Mode | Highlights |
 |------|--------------|----------|------|------------|
-| 🚀 **Tech@Lilly Summer Intern** | Eli Lilly and Company | **Jul 2026 – Present** | Remote | Software Engineering · Enterprise Applications · Healthcare Technology |
-| 💻 **Intern Developer** | Itransition Group | **Jun 2026 – Present** | Remote | Mentor-led Software Engineering Program · .NET · Front-end Engineering |
+| 🚀 **Tech@Lilly Summer Intern** | Eli Lilly and Company | **Jun 2026 – Present** | Remote | Software Engineering · Enterprise Applications · Healthcare Technology |
+| 💻 **Intern Developer** | Itransition Group | **Apr 2026 – May** | Remote | Mentor-led Software Engineering Program · .NET · Front-end Engineering |
 | 🏫 **Student Developer (Team Lead)** | Fusion ERP Portal – IIITDM Jabalpur | **Aug 2025 – Apr 2026** | On-Campus | Led a team of 10 developers · Django · Python · SQL · Git |
 | 💼 **Software Engineer Intern** | Infosys Springboard | **Sep 2025 – Nov 2025** | Remote | React · Node.js · Express.js · MongoDB · Socket.IO |
 | 🔺 **Backend Development Intern** | Bluestock Fintech | **May 2025 – Jul 2025** | Remote | FastAPI · Django · REST APIs · PostgreSQL |
@@ -133,7 +133,7 @@ Hi! I'm <strong>Shristi Rajpoot</strong>, a Computer Science undergraduate at <s
 | 🌐 **Google Student Upskilling Launchpad** | Google | **Apr – May 2025** | Invite-only mentorship program |
 | 🤖 **Google Cloud Gen AI Exchange Program** | Google Cloud | **Apr – Jul 2025** | Gemini · Vertex AI · Imagen · Multimodal RAG |
 | 💻 **Microsoft Code; Without Barriers Mentee** | Microsoft | **Apr – Jul 2025** | AI & Software Engineering Mentorship |
-| 🌱 **Pragati: Path to Future – Cohort 5** | Infosys Springboard | **May – Jul 2025** | Software Engineering & Professional Development |
+| 🌱 **Pragati: Path to Future – Cohort 5** | Infosys Springboard | **Jun – Aug 2025** | Software Engineering & Professional Development |
 | 🌐 **IBM SkillsBuild Intern (AICTE Certified)** | IBM SkillsBuild × AICTE | **Jul – Aug 2025** | Full-Stack Web Development |
 | 🔗 **SheFi Scholar (Cohort 13)** | SheFi | **Feb – Apr 2025** | Web3 · Blockchain · DeFi |
 | 👩‍💻 **Codess.Cafe Mentee** | Codess.Cafe | **Oct 2024 – Nov 2025** | Technical Mentorship |
@@ -337,7 +337,7 @@ Hi! I'm <strong>Shristi Rajpoot</strong>, a Computer Science undergraduate at <s
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-<a href="https://codeforces.com/profile/shristi36">
+<a href="https://codeforces.com/profile/shristirajpoot">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 <a href="https://www.geeksforgeeks.org/user/shristirawkeq/">
