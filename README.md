@@ -291,11 +291,11 @@ Hi! I'm <strong>Shristi Rajpoot</strong>, a Computer Science undergraduate at <s
 
 <hr>
 <div align="center">
-  <a href="https://drive.google.com/file/d/1WsVUv8OXFOa0m3jB1DbECd-SFPc8T1cQ/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1R6_QlIahxZ92gIuPzFEv0MZOZM5kT90L/view?usp=drive_link" target="_blank">
     <img height="400px" src="https://raw.githubusercontent.com/Shristirajpoot/Shristirajpoot/main/r%20(1).png" alt="Shristi Rajpoot Resume Preview" />
   </a>
   <br><br>
-  <a href="https://drive.google.com/file/d/1WsVUv8OXFOa0m3jB1DbECd-SFPc8T1cQ/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1R6_QlIahxZ92gIuPzFEv0MZOZM5kT90L/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄 View Full Resume-green?style=for-the-badge" alt="View Resume Button">
   </a>
 
