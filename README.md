@@ -44,9 +44,12 @@
 
 Hi! I'm <strong>Shristi Rajpoot</strong>, a Computer Science undergraduate at <strong>IIITDM Jabalpur</strong> passionate about building scalable software and AI-powered applications. I enjoy solving real-world problems through backend engineering, full-stack development, and modern AI technologies.
 
-🎓 <strong>B.Tech in Computer Science Engineering</strong> (2023–2027)<br>
-🏢 <strong>Tech@Lilly Summer Intern</strong> • Intern Developer @ <strong>Itransition Group</strong><br>
+🎓 <strong>B.Tech in Computer Science & Engineering</strong> (2023–2027)<br>
+🏢 <strong>Tech@Lilly Summer Intern</strong> • Amazon ML Summer School '26<br>
+🏆 <strong>Polaris Fellowship 2026 — Top 100 | Top 1%</strong><br>
+🔬 <strong>Patent Co-Inventor</strong> — Biometric-Based Wearable System for Child Safety<br>
 📍 India • Open Source Contributor • Always building and learning.
+
 
 </p>
     </td>
@@ -127,6 +130,7 @@ Hi! I'm <strong>Shristi Rajpoot</strong>, a Computer Science undergraduate at <s
 
 | Program | Organization | Duration | Highlights |
 |----------|--------------|----------|------------|
+| 🏆 **Polaris Fellowship 2026 — Top 100** | The Polaris Fellowship | ** Aug 2026** | Selected among the **Top 100 applicants (Top 1%)** from 10,000+ applications |
 | 🤖 **Amazon ML Summer School 2026** | Amazon | **Jul – Aug 2026** | Selected among **3,000 students from 134K+ applicants (Top 2.2%)** |
 | 🎓 **HPAIR Asia Delegate** | Harvard Project for Asian & International Relations | **Aug 2025** | Represented India at the University of Tokyo |
 | 🌍 **Harvard WECode Scholar** | Harvard University | **Feb 2025** | Selected for one of the world's largest student-run women-in-tech conferences |
@@ -168,6 +172,8 @@ Hi! I'm <strong>Shristi Rajpoot</strong>, a Computer Science undergraduate at <s
 ## 🏆 Highlights & Achievements
 
 - 🤖 **Amazon ML Summer School 2026** — Selected among **3,000 students from 134K+ applicants (Top 2.2%)** through Amazon's competitive multi-stage selection process.
+- 🔬 **Patent Co-Inventor** — Co-inventor of a **Biometric-Based Wearable System for Child Safety**, integrating biometric identification with proximity-based alert mechanisms. Indian Patent Application **No. 202621094949**, filed August 5, 2026.
+- 🏆 **Polaris Fellowship 2026 — Top 100 | Top 1%** — Selected among the **Top 100 applicants in India** from 10,000+ applications after multiple rounds of evaluation and a final interview.
 - 💊 **Selected for Tech@Lilly Summer Internship 2026** — Received a Software Engineering internship offer from Eli Lilly after the competitive selection process.
 - 🌍 **Harvard WECode Scholar** — Selected for one of the world's largest student-run women-in-tech conferences hosted by Harvard University.
 - 🌏 **HPAIR Asia Delegate** — Represented India at the Harvard Project for Asian & International Relations held at the University of Tokyo.
