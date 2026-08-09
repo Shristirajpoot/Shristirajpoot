@@ -130,7 +130,7 @@ Hi! I'm <strong>Shristi Rajpoot</strong>, a Computer Science undergraduate at <s
 
 | Program | Organization | Duration | Highlights |
 |----------|--------------|----------|------------|
-| 🏆 **Polaris Fellowship 2026 — Top 100** | The Polaris Fellowship | ** Aug 2026** | Selected among the **Top 100 applicants (Top 1%)** from 10,000+ applications |
+| 🏆 **Polaris Fellowship 2026 - Top 100** | The Polaris Fellowship | **Aug 2026** | Selected among the **Top 100 applicants (Top 1%)** from 10,000+ applications |
 | 🤖 **Amazon ML Summer School 2026** | Amazon | **Jul – Aug 2026** | Selected among **3,000 students from 134K+ applicants (Top 2.2%)** |
 | 🎓 **HPAIR Asia Delegate** | Harvard Project for Asian & International Relations | **Aug 2025** | Represented India at the University of Tokyo |
 | 🌍 **Harvard WECode Scholar** | Harvard University | **Feb 2025** | Selected for one of the world's largest student-run women-in-tech conferences |
